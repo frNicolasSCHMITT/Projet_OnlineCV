@@ -1,3 +1,4 @@
+/* accueil */
 .accueil-bg{
     background-image: linear-gradient(to right,rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4)), url(./images/blue_circuit_bg.jpg);
     background-size: cover;
@@ -7,4 +8,8 @@
     display: flex;
     flex-direction: row-reverse;
     align-items: center;
+}
+/* Bio */
+#Bionico{
+    margin-top: 3%;
 }
