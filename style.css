@@ -18,6 +18,11 @@ nav a:hover{
 #Bionico{
     margin-top: 3%;
 }
+.photo{
+    width: 100%;
+    height: auto;
+    margin-bottom: 5%;
+}
 /*---------------------------------------- compétences */
 .bg-gray{
     background-color: lightgrey;
@@ -176,4 +181,21 @@ a{text-decoration:none}
     text-align: center;
     margin-top: 5%;
     margin-bottom: 5%;
+}
+.margebas{
+    margin-bottom: 5%;
+}
+/* -------------------------------------------------------------Contact */
+.bleu{
+    color: #0a66c2;
+}
+.noir{
+    color: black;
+}
+.orange{
+    color: orangered;
+}
+.cardimg{
+    width: 100%;
+    height: 100%;
 }
