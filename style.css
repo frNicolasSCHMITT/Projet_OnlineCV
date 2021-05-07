@@ -23,6 +23,9 @@ nav a:hover{
     height: auto;
     margin-bottom: 5%;
 }
+.btngroup{
+    text-align: center;
+}
 /*---------------------------------------- compétences */
 .bg-gray{
     background-color: lightgrey;
@@ -198,4 +201,12 @@ a{text-decoration:none}
 .cardimg{
     width: 100%;
     height: 100%;
+}
+.btnbas{
+    margin-bottom: 5%;
+    text-align: center;
+}
+
+.italic{
+    font-style: italic;
 }
