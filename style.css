@@ -55,6 +55,9 @@ nav a:hover{
 .compebloc{
     margin-bottom: 2%;
 }
+.progresstext{
+    text-shadow: 1px 1px 1px black;
+}
 /*----------------------------------------------------- Expériences */
 .blanc{
     color: white;
