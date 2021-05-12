@@ -191,6 +191,21 @@ a{text-decoration:none}
 .margebas{
     margin-bottom: 5%;
 }
+.filtre {
+    background-color: rgba(0, 0, 0, 0.4);
+    text-shadow: 1px 1px 1px black;
+    border-radius: 10px;
+}
+.filtre > h5{
+    color: white;
+}
+.filtre > p{
+    color: white;
+}
+.filtre > p > a{
+    color: white;
+    text-decoration: underline;
+}
 /* -------------------------------------------------------------Contact */
 .bleu{
     color: #0a66c2;
