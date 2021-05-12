@@ -228,3 +228,7 @@ a{text-decoration:none}
 .italic{
     font-style: italic;
 }
+.lienCV{
+    text-decoration: none;
+    color: black;
+}
