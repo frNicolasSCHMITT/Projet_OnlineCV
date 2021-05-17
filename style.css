@@ -232,3 +232,9 @@ a{text-decoration:none}
     text-decoration: none;
     color: black;
 }
+/* FOOTER */
+footer{
+    color: white;
+    text-align: center;
+    padding: 1%;
+}
